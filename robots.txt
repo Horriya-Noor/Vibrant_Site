@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.vibrantriskmanagement.com/sitemap.xml
